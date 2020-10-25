@@ -1,2 +1,1 @@
-# nayak-cloud-project
-Cloud Project 1
+nayak-cloud-project
