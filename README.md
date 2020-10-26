@@ -1,4 +1,6 @@
-nayak-cloud-project
+nayak-cloud-project - The video file can be accessed at the following link https://drive.google.com/file/d/1owXqV1D3CpjggYc6yjzdcwKq_EkwW9im/view?usp=sharing
+
+
 **Cloud Project 1 - awscloudservice.com**
 ==================================
 
